@@ -1,2 +1,2 @@
 # Number-Wizard-Console
-# Number-Wizard-Console-Udemy
+First Game using C#. Just a really basic number guessing game. 
